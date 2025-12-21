@@ -3,9 +3,9 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "faged-pipeline"
+name = "ged-building-layout"
 version = "0.1.2"
-description = "FaGED pipeline: construct graph representation for open-space public buildings, extract prototypes, and compute (n)GED/FaGED for layout-behavior retrieval."
+description = "construct graph representation for open-space public buildings, extract prototypes, and compute (n)GED/FaGED for layout-behavior retrieval."
 readme = "README_PYPI.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
