@@ -1,4 +1,4 @@
-# src/faged_pipeline/viz_style.py
+# src/ged_building_layout/viz_style.py
 from __future__ import annotations
 from typing import Dict
 

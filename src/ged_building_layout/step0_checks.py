@@ -1,4 +1,4 @@
-# src/faged_pipeline/step0_checks.py
+# src/ged_building_layout/step0_checks.py
 from __future__ import annotations
 
 import os

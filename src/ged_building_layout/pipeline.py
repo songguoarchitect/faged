@@ -1,4 +1,4 @@
-# src/faged_pipeline/pipeline.py
+# src/ged_building_layout/pipeline.py
 from __future__ import annotations
 from dataclasses import dataclass
 import pandas as pd
