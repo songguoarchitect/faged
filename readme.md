@@ -7,7 +7,7 @@ This document demonstrates a **minimal, reproducible workflow** for:
 1. Installing the library  
 2. Building a **layout graph** and a **behavioral graph**  
 3. Extracting **prototypes** for layouts
-4. Computing multiple **graph edit distances (ged_building_layouts)**  
+4. Computing multiple **graph edit distances (GED)**  
 
 ---
 ## 1) Installation
