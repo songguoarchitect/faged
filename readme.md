@@ -1,9 +1,5 @@
 ## A Function-aware Graph-based Layout Retrieval Approach for Open-plan Libraries
-<<<<<<< HEAD
-ged-building-layout is a research-oriented Python library for comparing spatial layouts and human behavioral patterns using function-aware graph representations.
-=======
 GED-building-layout is a research-oriented Python library for comparing spatial layouts and human behavioral patterns using function-aware graph representations.
->>>>>>> 0edd4e7 (Update docs and minor fixes)
 In addition, this pipeline can also be used independently to construct graph representations of complex architectural layouts with open spaces, as well as to extract layout prototypes from such configurations.
 
 This document demonstrates a **minimal, reproducible workflow** for:
@@ -11,11 +7,7 @@ This document demonstrates a **minimal, reproducible workflow** for:
 1. Installing the library  
 2. Building a **layout graph** and a **behavioral graph**  
 3. Extracting **prototypes** for layouts
-<<<<<<< HEAD
-4. Computing multiple **graph edit distances (GED)**  
-=======
 4. Computing multiple **graph edit distances (GEDs)**  
->>>>>>> 0edd4e7 (Update docs and minor fixes)
 
 ---
 ## 1) Installation

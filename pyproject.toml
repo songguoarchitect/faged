@@ -4,11 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ged-building-layout"
-<<<<<<< HEAD
-version = "0.1.2"
-=======
+
 version = "0.1.3"
->>>>>>> d9307b9 (Rename package to ged_building_layout and update docs)
 description = "construct graph representation for open-space public buildings, extract prototypes, and compute (n)GED/FaGED for layout-behavior retrieval."
 readme = "README_PYPI.md"
 requires-python = ">=3.10"
@@ -55,8 +52,4 @@ where = ["src"]
 [project.urls]
 Homepage = "https://github.com/songguoarchitect/GED-building-layout"
 Repository = "https://github.com/songguoarchitect/GED-building-layout"
-<<<<<<< HEAD
 Issues = "https://github.com/songguoarchitect/GED-building-layout/issues"
-=======
-Issues = "https://github.com/songguoarchitect/GED-building-layout/issues"
->>>>>>> d9307b9 (Rename package to ged_building_layout and update docs)
